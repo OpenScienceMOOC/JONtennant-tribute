@@ -8,3 +8,7 @@ In this time of covid, we can not meet in person and gather to start/continue ou
 I propose to get a get-together event on Thursday 16th at 17h CET (15h UCT) using jitsi video conference.
 
 Please add ideas using issues, and add documents  (video, images, music, texts) you think would fit.
+
+
+videos:
+https://www.youtube.com/watch?v=KbD-CdhgC9A
