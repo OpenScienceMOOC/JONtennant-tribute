@@ -12,3 +12,6 @@ Please add ideas using issues, and add documents  (video, images, music, texts) 
 
 videos:
 https://www.youtube.com/watch?v=KbD-CdhgC9A
+
+music Jon was listening to a lot:
+https://www.youtube.com/watch?v=YKf-2lmYYDo
